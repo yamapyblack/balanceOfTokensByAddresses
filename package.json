@@ -1,7 +1,7 @@
 {
   "name": "balanceoftokensbyaddresses",
   "version": "1.0.0",
-  "description": "balanceOf Tokens(ERC20 or ERC721) by Addresses",
+  "description": "balanceOf Tokens(ERC20) by Addresses",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,7 @@
   "keywords": [
     "web3",
     "ethereum",
-    "ERC20",
-    "ERC721"
+    "ERC20"
   ],
   "author": "yamapyblack",
   "license": "ISC",

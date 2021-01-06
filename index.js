@@ -1,10 +1,9 @@
-//const tokenAddress = "0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e"; //kick
-const tokenAddress = "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"; //rari
-//const walletAddresses = ["0x12fA9a179f1db2a97052CcbFD7a4AAAA91Fef780","0xCDF4f278c469Fd3961707D6b4D54B8f244eA5d9E"];
+//const tokenAddress = "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3"; //for example MCH Coin
+const tokenAddress = ""; //rari
+//const walletAddresses = ["0x.....","0x....."];
 const walletAddresses = require('./addresses.json');
 
-
-// ERC20 トークンの残高を取得するための最小限のABI
+// ERC20 minimum ABI
 const ERC20ABI = [
   // balanceOf
   {
