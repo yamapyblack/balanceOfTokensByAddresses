@@ -1,5 +1,5 @@
 //const tokenAddress = "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3"; //for example MCH Coin
-const tokenAddress = ""; //rari
+const tokenAddress = "";
 //const walletAddresses = ["0x.....","0x....."];
 const walletAddresses = require('./addresses.json');
 

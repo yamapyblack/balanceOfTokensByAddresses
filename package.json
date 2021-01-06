@@ -1,8 +1,8 @@
 {
   "name": "balanceoftokensbyaddresses",
   "version": "1.0.0",
-  "description": "balanceOf Tokens(ERC20) by Addresses",
-  "main": "index.js",
+  "description": "balanceOf Tokens(ERC20 or ERC721) by Addresses",
+  "main": "ERC20.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
